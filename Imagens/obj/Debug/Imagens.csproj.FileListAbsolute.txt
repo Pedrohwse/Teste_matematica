@@ -1,0 +1,20 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\VisualEstudio\Imagens\Imagens\bin\Debug\Imagens.exe.config
+C:\Users\gabri\OneDrive\Área de Trabalho\VisualEstudio\Imagens\Imagens\bin\Debug\Imagens.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\VisualEstudio\Imagens\Imagens\bin\Debug\Imagens.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\VisualEstudio\Imagens\Imagens\obj\Debug\Imagens.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\VisualEstudio\Imagens\Imagens\obj\Debug\Imagens.Form1.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\VisualEstudio\Imagens\Imagens\obj\Debug\Imagens.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\VisualEstudio\Imagens\Imagens\obj\Debug\Imagens.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\VisualEstudio\Imagens\Imagens\obj\Debug\Imagens.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\VisualEstudio\Imagens\Imagens\obj\Debug\Imagens.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\VisualEstudio\Imagens\Imagens\obj\Debug\Imagens.pdb
+C:\Users\Aluno\Desktop\PEDRO\c#\Imagens\Imagens\bin\Debug\Imagens.exe.config
+C:\Users\Aluno\Desktop\PEDRO\c#\Imagens\Imagens\bin\Debug\Imagens.exe
+C:\Users\Aluno\Desktop\PEDRO\c#\Imagens\Imagens\bin\Debug\Imagens.pdb
+C:\Users\Aluno\Desktop\PEDRO\c#\Imagens\Imagens\obj\Debug\Imagens.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\PEDRO\c#\Imagens\Imagens\obj\Debug\Imagens.Form1.resources
+C:\Users\Aluno\Desktop\PEDRO\c#\Imagens\Imagens\obj\Debug\Imagens.Properties.Resources.resources
+C:\Users\Aluno\Desktop\PEDRO\c#\Imagens\Imagens\obj\Debug\Imagens.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\PEDRO\c#\Imagens\Imagens\obj\Debug\Imagens.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\PEDRO\c#\Imagens\Imagens\obj\Debug\Imagens.exe
+C:\Users\Aluno\Desktop\PEDRO\c#\Imagens\Imagens\obj\Debug\Imagens.pdb
